@@ -1,0 +1,7 @@
+{
+  "name": "Agência Nexo Digital - Agência de Sites Estratégicos",
+  "description": "Website institucional multi-páginas focado em autoridade digital, SEO e conversão de leads para empresas e profissionais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
